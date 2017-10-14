@@ -1,8 +1,6 @@
-package jp.techacademy.yasushi.asahi;
+package jp.techacademy.yasushi.asahi.jumpactiongame;
 
 import com.badlogic.gdx.graphics.Texture;
-
-import jp.techacademy.yasushi.asahi.jumpactiongame.GameScreen;
 
 public class Step extends GameObject {
     // 横幅、高さ

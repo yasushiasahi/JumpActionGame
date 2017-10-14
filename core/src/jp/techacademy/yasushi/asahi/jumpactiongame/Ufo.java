@@ -1,4 +1,4 @@
-package jp.techacademy.yasushi.asahi;
+package jp.techacademy.yasushi.asahi.jumpactiongame;
 
 import com.badlogic.gdx.graphics.Texture;
 
